@@ -1,7 +1,7 @@
 # docker-ark 
 This is docker container running an **ARK Survival Evolved** server (http://www.playark.com/).
 
-Tested on Linux (Ubuntu 14.04)  and Synology DSM 5.2-5644
+Tested on Linux (Ubuntu 18.04)
 ## Features
 
 - Easy install
